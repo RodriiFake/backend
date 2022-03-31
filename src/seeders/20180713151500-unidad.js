@@ -185,6 +185,20 @@ module.exports = {
         _fecha_modificacion: new Date(),
         _usuario_creacion: 1,
         _usuario_modificacion:1
+      },{
+        nombre: 'JEFATURA DE CARRERA DE INGENIERÍA COMERCIAL',
+        abreviacion: 'JDC-COM',
+        _fecha_creacion: new Date(),
+        _fecha_modificacion: new Date(),
+        _usuario_creacion: 1,
+        _usuario_modificacion:1
+      },{
+        nombre: 'CIENCIAS BÁSICAS',
+        abreviacion: 'C-B',
+        _fecha_creacion: new Date(),
+        _fecha_modificacion: new Date(),
+        _usuario_creacion: 1,
+        _usuario_modificacion:1
       }
     ], {});
   },
